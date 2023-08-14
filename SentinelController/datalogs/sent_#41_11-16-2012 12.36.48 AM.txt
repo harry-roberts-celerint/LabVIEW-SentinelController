@@ -1,0 +1,434 @@
+11/16/2012   12:36 AM
+Test Cell ID: default
+Lot Number: default
+Operator Name:  default
+System Started
+H1 Off-Line
+H1 Low Yield Warning Limit: 90
+H1 Low UPH Warning Limit: 12960
+H2 Off-Line
+H2 Low Yield Warning Limit: 90
+H2 Low UPH Warning Limit: 12960
+
+11/16/2012   12:37:00 AM
+Change in H1 Status: H1 On-Line
+
+11/16/2012   12:37:01 AM
+Change in H2 Status: H2 On-Line
+
+4
+11/16/2012   12:39:13 AM
+H1 Warning, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 11824
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14031
+
+5
+11/16/2012   12:39:17 AM
+H1 Warning, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 11877
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 11853
+
+6
+11/16/2012   12:39:25 AM
+H1 Nominal, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14078
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 11846
+
+7
+11/16/2012   12:39:28 AM
+H1 Nominal, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14078
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14078
+
+8
+11/16/2012   12:43:27 AM
+H1 Warning, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 11864
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14207
+
+9
+11/16/2012   12:43:36 AM
+H1 Warning, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 11864
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 11864
+
+10
+11/16/2012   12:43:39 AM
+H1 Alarming, H2 Alarming
+H1 On-Line
+H1 Low Yield Alarm Limit: 80, H1 yield = 100
+H1 Low UPH Alarm Limit: 11520, H1 UPH = 9836
+H2 On-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 100
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 9990
+
+11
+11/16/2012   12:43:47 AM
+H1 Warning, H2 Alarming
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 12151
+H2 On-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 100
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 9958
+
+12
+11/16/2012   12:43:50 AM
+H1 Nominal, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14153
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14167
+
+13
+11/16/2012   12:44:23 AM
+H1 Nominal, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14197
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 12025
+
+14
+11/16/2012   12:44:26 AM
+H1 Warning, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 12030
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 12025
+
+15
+11/16/2012   12:44:35 AM
+H1 Warning, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 12037
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14204
+
+16
+11/16/2012   12:44:38 AM
+H1 Nominal, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14197
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14202
+
+17
+11/16/2012   12:46:37 AM
+H1 Warning, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 12006
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14200
+
+18
+11/16/2012   12:46:41 AM
+H1 Warning, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 12001
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 12016
+
+19
+11/16/2012   12:46:49 AM
+H1 Nominal, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14168
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 11986
+
+20
+11/16/2012   12:46:52 AM
+H1 Nominal, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14184
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14181
+
+21
+11/16/2012   12:47:22 AM
+H1 Nominal, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 100
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14191
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 100
+H2 Low UPH Warning Limit: 12960, H2 UPH = 12096
+
+22
+11/16/2012   12:47:25 AM
+H1 Warning, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 98
+H1 Low UPH Warning Limit: 12960, H1 UPH = 12097
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 96
+H2 Low UPH Warning Limit: 12960, H2 UPH = 12092
+
+23
+11/16/2012   12:47:34 AM
+H1 Warning, H2 Alarming
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 85
+H1 Low UPH Warning Limit: 12960, H1 UPH = 12114
+H2 On-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 73
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 14207
+
+24
+11/16/2012   12:47:40 AM
+H1 Warning, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 81
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14208
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 81
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14206
+
+25
+11/16/2012   12:47:44 AM
+H1 Warning, H2 Alarming
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 83
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14203
+H2 On-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 77
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 14201
+
+26
+11/16/2012   12:47:50 AM
+H1 Warning, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 81
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14190
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 83
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14192
+
+27
+11/16/2012   12:47:54 AM
+H1 Warning, H2 Alarming
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 81
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14186
+H2 On-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 79
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 14194
+
+28
+11/16/2012   12:47:57 AM
+H1 Alarming, H2 Alarming
+H1 On-Line
+H1 Low Yield Alarm Limit: 80, H1 yield = 79
+H1 Low UPH Alarm Limit: 11520, H1 UPH = 14208
+H2 On-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 79
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 14207
+
+29
+11/16/2012   12:48:01 AM
+H1 Warning, H2 Alarming
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 83
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14212
+H2 On-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 77
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 14212
+
+30
+11/16/2012   12:48:04 AM
+H1 Alarming, H2 Alarming
+H1 On-Line
+H1 Low Yield Alarm Limit: 80, H1 yield = 79
+H1 Low UPH Alarm Limit: 11520, H1 UPH = 14210
+H2 On-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 75
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 14209
+
+31
+11/16/2012   12:48:16 AM
+H1 Warning, H2 Alarming
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 81
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14204
+H2 On-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 75
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 14205
+
+32
+11/16/2012   12:48:19 AM
+H1 Warning, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 88
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14204
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 83
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14205
+
+33
+11/16/2012   12:48:24 AM
+H1 Nominal, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 92
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14202
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 83
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14202
+
+34
+11/16/2012   12:48:27 AM
+H1 Warning, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 90
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14202
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 88
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14202
+
+35
+11/16/2012   12:48:32 AM
+H1 Nominal, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 92
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14200
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 90
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14201
+
+36
+11/16/2012   12:48:35 AM
+H1 Nominal, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 96
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14200
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 96
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14198
+
+37
+11/16/2012   12:48:47 AM
+H1 Nominal, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 98
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14186
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 90
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14194
+
+38
+11/16/2012   12:48:50 AM
+H1 Nominal, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 96
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14197
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 92
+H2 Low UPH Warning Limit: 12960, H2 UPH = 14193
+
+11/16/2012   12:49:12 AM
+Change in H2 Status: H2 Off-Line
+
+39
+11/16/2012   12:49:12 AM
+H1 Nominal, H2 Alarming
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 94
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14198
+H2 Off-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 96
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 14207
+
+40
+11/16/2012   12:49:29 AM
+H1 Warning, H2 Alarming
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 88
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14232
+H2 Off-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 92
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 14214
+
+41
+11/16/2012   12:49:32 AM
+H1 Nominal, H2 Alarming
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 92
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14233
+H2 Off-Line
+H2 Low Yield Alarm Limit: 80, H2 yield = 92
+H2 Low UPH Alarm Limit: 11520, H2 UPH = 14214
+
+11/16/2012   12:49:34 AM
+Change in H2 Status: H2 On-Line
+
+42
+11/16/2012   12:49:36 AM
+H1 Warning, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 90
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14240
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 281
+H2 Low UPH Warning Limit: 12960, H2 UPH = 36188
+
+43
+11/16/2012   12:49:41 AM
+H1 Nominal, H2 Nominal
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 94
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14223
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 144
+H2 Low UPH Warning Limit: 12960, H2 UPH = 18089
+
+44
+11/16/2012   12:49:44 AM
+H1 Nominal, H2 Warning
+H1 On-Line
+H1 Low Yield Warning Limit: 90, H1 yield = 94
+H1 Low UPH Warning Limit: 12960, H1 UPH = 14225
+H2 On-Line
+H2 Low Yield Warning Limit: 90, H2 yield = 98
+H2 Low UPH Warning Limit: 12960, H2 UPH = 12149
+
